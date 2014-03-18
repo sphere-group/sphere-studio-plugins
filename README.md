@@ -17,7 +17,10 @@ include them somewhere inside it. See the FastScriptPlugin as an example.
 Then you can follow the plugin tutorial here:
 https://github.com/Radnen/spherestudio/wiki/How-to:-Plugins
 
+Tip: Copy the Base Plugin and use it as your base for a plugin. That's why it's there!
+
 Plugins
 =======
 
+- Base Plugin: Radnen
 - Fast Script Plugin: Radnen
